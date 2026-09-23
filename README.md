@@ -39,11 +39,10 @@
 ![Aerospace](https://img.shields.io/badge/Aerospace_Software-27374D?style=for-the-badge&logo=rocket&logoColor=white)
 ![Avionics](https://img.shields.io/badge/Avionics-1F6FEB?style=for-the-badge&logo=airbus&logoColor=white)
 
-### Linux
+### My OS
 
 ![Arch Linux](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=hyprland&logoColor=black)
+![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=flat-square&logo=windows11&logoColor=white)
 
 
 </div>
