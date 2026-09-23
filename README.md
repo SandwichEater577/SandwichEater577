@@ -11,57 +11,39 @@
   <img src="https://img.shields.io/badge/Discord-@nestea.dev-5865F2?style=flat-square&logo=discord&logoColor=white"/>
 </a>
 
-</div>
 
----
+### Things I know
 
-```text
-> studying programming at one of Poland's top technical programming high schools
-> Arch Linux daily driver
-> experience with Arch + Ubuntu
-> built and maintain my own Hyprland rice / dotfiles
-> learning Ada and getting deeper into aerospace + avionics software
-<div align="center">
-stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JSX](https://img.shields.io/badge/JSX-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TSX](https://img.shields.io/badge/TSX-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![x86--64 ASM](https://img.shields.io/badge/x86--64_ASM-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
+### Currently learning
 
+![Ada](https://img.shields.io/badge/Ada-02A9A5?style=for-the-badge&logoColor=white)
+![Aerospace](https://img.shields.io/badge/Aerospace_Software-27374D?style=for-the-badge&logo=rocket&logoColor=white)
+![Avionics](https://img.shields.io/badge/Avionics-1F6FEB?style=for-the-badge&logo=airbus&logoColor=white)
 
+### Linux
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-linux
-
-
-
-
-
-
-learning / exploring
-
-
-
-
+![Arch Linux](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=hyprland&logoColor=black)
 
 
 </div>
