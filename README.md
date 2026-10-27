@@ -42,6 +42,7 @@
 ### My OS
 
 ![Arch Linux](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![EndeavourOS](https://img.shields.io/badge/EndeavourOS-7F7FFF?style=for-the-badge&logo=endeavouros&logoColor=white)
 
 
 </div>
